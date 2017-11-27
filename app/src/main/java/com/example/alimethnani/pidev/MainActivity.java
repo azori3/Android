@@ -36,6 +36,9 @@ public class MainActivity extends AppCompatActivity {
     ListView listjobs;
     private ListaAdaptorJobs listaAdaptorJobs;
     ListView lv;
+    private Button delet;
+
+
 
 
 

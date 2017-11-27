@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.NetworkResponse;
@@ -116,8 +117,13 @@ public class AddJobActivity extends AppCompatActivity {
                 } catch (ExceptionInInitializerError e) {
                     e.printStackTrace();
                 }
+
             }
         });
+
+        Toast.makeText(getApplicationContext(),"Add ssucces",Toast.LENGTH_LONG).show();
+
+
 
 
     }
