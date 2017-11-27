@@ -127,7 +127,7 @@
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
          android:textColor="@color/cardview_light_background"
-         android:text="Signaler"
+         android:text="SendSMS"
          android:background="@drawable/rectgoogle"
          android:id="@+id/SMS"/>
  </LinearLayout>
