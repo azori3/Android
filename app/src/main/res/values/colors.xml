@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#162583</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Teal">#424242</color>
+    <color name="grey">#a9d02f</color>
+    <color name="red">#F44336</color>
+    <color name="bag">#d5e5a4</color>
+</resources>
